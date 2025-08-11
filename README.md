@@ -14,7 +14,7 @@ The evaluation can be performed on the following datasets:
 
 > **Note:** The datasets are not included in this repository. You must download them manually.
 
-The script supports evaluation metrics: **NDCG**, **MRR**, and **MAP@k** (with customizable *k*).
+The script supports evaluation metrics: **NDCG@k**, **MRR@k**, and **MAP@k** (with customizable *k*).
 
 ---
 
